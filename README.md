@@ -2,6 +2,27 @@
 
 ---
 
+## *Projects for Term 3 and 4*
+
+### *UNTITLED RUNNER GAME (FEBURARY-ONGOING 2026)*
+
+  Made using Processing (a Java-based program).
+
+  The user is able to jump, double jump, slide, and wall jump, depending on the obstacle they are facing.
+
+Modes: The game will include an endless mode, where you keep running until you die. There is also a speedrun mode where you beat a level as fast as possible.
+
+Characters: There will be two characters. One that runs fast but doesnt have a double jump, while the other is slower but has a double jump.
+
+Biomes: The game will include multiple biomes such as grass, canyon, volcano, and other potential biomes that are more unique
+
+Other Additions: Power Ups, Stamina Meter, and possibly music and additional features if there is time!
+
+Personal Role: Lead Programmer, Debugger
+
+#### RUNNING APP
+![]()
+
 ## *Projects for Term 2*
 
 ---
