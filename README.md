@@ -20,8 +20,11 @@ Other Additions: Power Ups, Stamina Meter, and possibly music and additional fea
 
 Personal Role: Lead Programmer, Debugger
 
-#### RUNNING APP
-![]()
+#### RUNNING APP:
+![RunningApp](https://github.com/angieliu4/compgramming/blob/main/images/UntitledRunnerGame.png?raw=true)
+
+#### GROUP REPO:
+[Group REPO](https://github.com/CreativeCha0s/CreativeGlory)
 
 ## *Projects for Term 2*
 
