@@ -26,6 +26,8 @@ Personal Role: Lead Programmer, Debugger
 #### GROUP REPO:
 [Group REPO](https://github.com/CreativeCha0s/CreativeGlory)
 
+---
+
 ## *Projects for Term 2*
 
 ---
