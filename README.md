@@ -30,9 +30,9 @@ Personal Role: Lead Programmer, Debugger
 [Source Code](https://github.com/angieliu4/compgramming/tree/main/src/UntitledRunnerGame)
 
 #### DOWNLOADS:
-[WindowsEXE](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/windows-amd64.zip)
-[MacOS](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/macos-aarch64.zip)
-[Linux](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/linux-aarch64.zip)
+* [WindowsEXE](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/windows-amd64.zip)
+* [MacOS](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/macos-aarch64.zip)
+* [Linux](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/linux-aarch64.zip)
 
 ---
 
