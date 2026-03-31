@@ -8,20 +8,10 @@
 
   Made using Processing (a Java-based program).
 
-  The user is able to jump, double jump, slide, and wall jump, depending on the obstacle they are facing.
-
-Modes: The game will include an endless mode, where you keep running until you die. There is also a speedrun mode where you beat a level as fast as possible.
-
-Characters: There will be two characters. One that runs fast but doesnt have a double jump, while the other is slower but has a double jump.
-
-Biomes: The game will include multiple biomes such as grass, canyon, volcano, and other potential biomes that are more unique
-
-Other Additions: Power Ups, Stamina Meter, and possibly music and additional features if there is time!
-
-Personal Role: Lead Programmer, Debugger
+  A runner/jumper game where the player has to avoid obstacles while keeping their stamina up with the stamina orbs. There are two biomes (maps) available to play in. Features a fully functional UI with a tutorial, options to set the biome, and a quit button to exit the program. A paralaxing background gives the illusion that the player is moving. There is a score system and a high score system. The game is endless and players will try to go as long as they can.
 
 #### RUNNING APP:
-![RunningApp](https://github.com/angieliu4/compgramming/blob/main/images/UntitledRunnerGame.png?raw=true)
+![RunningApp](https://github.com/angieliu4/compgramming/blob/main/images/runninggame.png?raw=true)
 
 #### GROUP REPO:
 [Group REPO](https://github.com/CreativeCha0s/CreativeGlory)
