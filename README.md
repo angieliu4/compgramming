@@ -4,7 +4,7 @@
 
 ## *Projects for Term 3 and 4*
 
-### *UNTITLED RUNNER GAME (FEBURARY-ONGOING 2026)*
+### *UNTITLED RUNNER GAME (FEBURARY-APRIL 2026)*
 
   Made using Processing (a Java-based program).
 
@@ -25,6 +25,14 @@ Personal Role: Lead Programmer, Debugger
 
 #### GROUP REPO:
 [Group REPO](https://github.com/CreativeCha0s/CreativeGlory)
+
+#### SOURCE CODE:
+[Source Code](https://github.com/angieliu4/compgramming/tree/main/src/UntitledRunnerGame)
+
+#### DOWNLOADS:
+[WindowsEXE](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/windows-amd64.zip)
+[MacOS](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/macos-aarch64.zip)
+[Linux](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/linux-aarch64.zip)
 
 ---
 
