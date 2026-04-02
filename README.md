@@ -10,19 +10,19 @@
 
   A runner/jumper game where the player has to avoid obstacles while keeping their stamina up with the stamina orbs. There are two biomes (maps) available to play in. Features a fully functional UI with a tutorial, options to set the biome, and a quit button to exit the program. A paralaxing background gives the illusion that the player is moving. There is a score system and a high score system. The game is endless and players will try to go as long as they can.
 
-#### RUNNING APP:
+#### *RUNNING APP:*
 ![RunningApp](https://github.com/angieliu4/compgramming/blob/main/images/runninggame.png?raw=true)
 
-#### UML:
-![UML]()
+#### *UML:*
+![UML](https://github.com/angieliu4/compgramming/blob/main/images/URGUML.png?raw=true)
 
-#### GROUP REPO:
+#### *GROUP REPO:*
 [Group REPO](https://github.com/CreativeCha0s/CreativeGlory)
 
-#### SOURCE CODE:
+#### *SOURCE CODE:*
 [Source Code](https://github.com/angieliu4/compgramming/tree/main/src/UntitledRunnerGame)
 
-#### DOWNLOADS:
+#### *DOWNLOADS:*
 * [WindowsEXE](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/windows-amd64.zip)
 * [MacOS](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/macos-aarch64.zip)
 * [Linux](https://github.com/angieliu4/compgramming/blob/main/src/UntitledRunnerGame/downloads/linux-aarch64.zip)
