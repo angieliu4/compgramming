@@ -2,6 +2,8 @@
 
 ---
 
+[Go to Game Development Portfolio!](https://angieliu4.github.io/compgramming/GameFolio.md)
+
 ## *Projects for Term 3 and 4*
 
 ### *UNTITLED RUNNER GAME (FEBURARY-APRIL 2026)*
