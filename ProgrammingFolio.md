@@ -2,7 +2,7 @@
 
 ---
 
-[Go to Game Development Portfolio!](https://angieliu4.github.io/compgramming/GameFolio.md)
+[Go to Game Development Portfolio!](https://angieliu4.github.io/compgramming/GameFolio)
 
 ## *Projects for Term 3 and 4*
 
