@@ -11,7 +11,7 @@
 
   Made using Unity (C#).
 
-  ##### *GAME CONTENT*
+#### *GAME CONTENT*
 
 A 3D horror game occuring in the town of Gnawed Creek. Originally named Woodlum Forest, there was once a peaceful village. People foraged, hunted, traded, and dream. Next, they were fleeing, screaming as the Swarm chased them. They were mistakes of nature with their gnashing teeth and beady eyes. They chewed and decimated with their endless hunger. What was once a lively town turned into a ruined hell. It was hopeless, but you didn't think so. What foolish ambition has driven you banish this evil? You have determined there is a ritual you must complete: six sacrifices, sacrifices that also brought them into this world. You can feel the sinister pull in the surrounding trees. Hopefully, there's a way to drag them back to their wretched world. But gluttony can never be satisfied...
 
