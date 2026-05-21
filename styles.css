@@ -4,7 +4,7 @@
     body {
       /* Sets the page background and layout */
       font-family: 'Inter', Garamond, serif;
-      background-color: rgb(140, 174, 104);
+      background-color: rgb(255);
       margin: 0;
       padding: 10px 0;
       display: flex;
