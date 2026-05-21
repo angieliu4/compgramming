@@ -41,11 +41,11 @@
     }
     nav {
       /* Styles the navigation bar */
-      height: 60px;
+      height: 100px;
       width: 100%;
       background-color: rgb(235, 185, 223);
       display: flex;
-      align-items: center;
+      align-items: left;
       justify-content: center;
       gap: 20px;
       padding: 0 10px;
@@ -54,7 +54,7 @@
       /* Styles navigation links */
       color: #fff;
       text-decoration: none;
-      font-size: 14px;
+      font-size: 21px;
     }
     nav a:hover {
       /* Hover effect for navigation links */
