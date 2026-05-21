@@ -41,12 +41,13 @@
     }
     nav {
       /* Styles the navigation bar */
-      height: 30px;
+      height: 60px;
       width: 100%;
       background-color: rgb(235, 185, 223);
       display: flex;
       align-items: center;
       justify-content: center;
+      gap: 20px;
       padding: 0 10px;
     }
     nav a {
