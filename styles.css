@@ -19,7 +19,7 @@
       overflow: hidden;
       position: relative;
       margin: 10px auto;
-      width: 1300px; height: auto;
+      width: 950px; height: auto;
       
     }
     header {
@@ -47,7 +47,6 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 15px;
       padding: 0 10px;
     }
     nav a {
