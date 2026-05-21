@@ -24,7 +24,8 @@
     }
     header {
       /* Styles the header section */
-      height: 20%;
+      height: 30%;
+      width: 100%;
       min-height: 80px;
       background-color: rgb(245, 213, 237);
       display: flex;
