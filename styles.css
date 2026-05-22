@@ -41,19 +41,19 @@
     }
     nav {
       /* Styles the navigation bar */
-      height: 100px;
+      height: 50px;
       width: 100%;
       background-color: rgb(235, 185, 223);
       display: flex;
-      align-items: left;
+      align-items: center;
       justify-content: center;
-      gap: 20px;
-      padding: 0 10px;
+      gap: 30px;
     }
     nav a {
       /* Styles navigation links */
       color: #fff;
       text-decoration: none;
+      text-align: left;
       font-size: 21px;
     }
     nav a:hover {
