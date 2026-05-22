@@ -46,7 +46,6 @@
       background-color: rgb(235, 185, 223);
       display: flex;
       align-items: center;
-      justify-content: center;
       gap: 30px;
     }
     nav a {
