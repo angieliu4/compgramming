@@ -57,9 +57,9 @@
     nav {
       /* Styles the navigation bar */
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      height: 40px;
+      height: 50px;
       width: 100%;
-      margin: 0;
+      margin-top: -5;
       background-color: rgb(255, 255, 255);
       display: flex;
       align-items: center;
