@@ -4,7 +4,7 @@
     body {
       /* Sets the page background and layout */
       font-family: 'Inter', Garamond, serif;
-      background-color: #ede8e0;
+      background-color: #dedede;
       margin: 0;
       padding: 10px 0;
       display: flex;
@@ -16,6 +16,7 @@
         background-color: #ffffff;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         width: 950px; height: 200px;
+        font-size: 20px;
         overflow: hidden;
         position: relative;
         margin: 30px auto;
@@ -23,10 +24,6 @@
         justify-content: center;
         text-align: center;
         color: rgb(0, 0, 0);
-    }
-
-    .title-container h1 {
-        font-size: 20px;
     }
 
     .page-container {
