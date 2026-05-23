@@ -56,10 +56,11 @@
     }
     nav {
       /* Styles the navigation bar */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       height: 40px;
       width: 100%;
       margin: 0;
-      background-color: rgb(235, 185, 223);
+      background-color: rgb(255, 255, 255);
       display: flex;
       align-items: center;
       padding-left: 50px;
@@ -67,13 +68,14 @@
     }
     nav a {
       /* Styles navigation links */
-      color: #fff;
+      color: #171717;
       text-decoration: none;
       text-align: left;
       font-size: 21px;
     }
     nav a:hover {
       /* Hover effect for navigation links */
+      color: #ff50a1;
       text-decoration: underline;
     }
     main {
