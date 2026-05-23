@@ -18,9 +18,10 @@
         width: 950px; height: 300px;
         overflow: hidden;
         position: relative;
-        margin: 10px auto;
+        margin: 30px auto;
         font-size: 30px;
-        text-align: center;
+        align-items: center;
+        justify-content: center;
         color: rgb(0, 0, 0);
     }
 
