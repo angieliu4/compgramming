@@ -15,14 +15,18 @@
     .title-container {
         background-color: #ffffff;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        width: 950px; height: 300px;
+        width: 950px; height: 200px;
         overflow: hidden;
         position: relative;
         margin: 30px auto;
-        font-size: 30px;
         align-items: center;
         justify-content: center;
+        text-align: center;
         color: rgb(0, 0, 0);
+    }
+
+    .title-container h1 {
+        font-size: 20px;
     }
 
     .page-container {
@@ -54,7 +58,7 @@
     }
     nav {
       /* Styles the navigation bar */
-      height: 50px;
+      height: 40px;
       width: 100%;
       background-color: rgb(235, 185, 223);
       display: flex;
@@ -67,7 +71,7 @@
       color: #fff;
       text-decoration: none;
       text-align: left;
-      font-size: 25px;
+      font-size: 21px;
     }
     nav a:hover {
       /* Hover effect for navigation links */
