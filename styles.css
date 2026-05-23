@@ -46,7 +46,7 @@
       background-color: rgb(235, 185, 223);
       display: flex;
       align-items: center;
-      padding: 20px;
+      padding: 40px;
       gap: 30px;
     }
     nav a {
@@ -54,7 +54,7 @@
       color: #fff;
       text-decoration: none;
       text-align: left;
-      font-size: 21px;
+      font-size: 25px;
     }
     nav a:hover {
       /* Hover effect for navigation links */
