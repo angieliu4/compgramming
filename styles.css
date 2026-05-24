@@ -46,7 +46,7 @@
       margin: 10px auto;
       padding-left: 20px;
       width: 950px; height: auto;
-      padding-bottom: 20px;
+      padding: 20px 0 20px 0;
       gap: 30px;
     }
 
