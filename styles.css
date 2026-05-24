@@ -144,7 +144,7 @@
       /* Styles the footer section */
       height: 20%;
       min-height: 80px;
-      background-color: rgb(245, 213, 237);
+      background-color: #f5f5f5;
       display: flex;
       align-items: center;
       justify-content: center;
