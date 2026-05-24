@@ -12,6 +12,7 @@
       min-height: 100vh;
     }
 
+
     img {
     /*Styles all images */
         border-radius: 20px;
@@ -23,6 +24,7 @@
     /*Container for the title of page */
         background-color: #ffffff;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border: 1.5px solid #cecece;
         width: 950px; height: 175px;
         font-size: 20px;
         overflow: hidden;
@@ -40,6 +42,7 @@
       background-color: #ffffff;
       color: #1a353a;
       border-radius: 20px;
+      border: 1.5px solid #cecece;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
       position: relative;
@@ -60,12 +63,18 @@
     .page-container2 {
       /* Main container for all sections */
       background-color: #ffffff;
+      border-radius: 20px;
+      border: 1.5px solid #cecece;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
       position: relative;
       margin: 10px auto;
       width: 950px; height: auto;
-      
+      padding: 20px;
+    }
+
+    .page-container2 h2 {
+        font-size: 20px;
     }
     header {
       /* Styles the header section */
