@@ -13,12 +13,14 @@
     }
 
     img {
+    /*Styles all images */
         border-radius: 20px;
         border: 1.5px solid #00596a;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
 
     .title-container {
+    /*Container for the title of page */
         background-color: #ffffff;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         width: 950px; height: 200px;
@@ -34,6 +36,7 @@
     }
 
     .page-container1 {
+      /*Container for certifications */
       background-color: #ffffff;
       border-radius: 20px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -46,6 +49,7 @@
     }
 
     .page-container1 img {
+    /*Styling certification images */
         width: 300px;
         align-items: center;
         padding-bottom: 20px;
