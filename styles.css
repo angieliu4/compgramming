@@ -38,7 +38,7 @@
     .page-container1 {
       /*Container for certifications */
       background-color: #ffffff;
-      display: flex;
+      
       border-radius: 20px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
@@ -46,12 +46,14 @@
       margin: 10px auto;
       padding-left: 20px;
       width: 950px; height: auto;
-      padding: 20px 0 20px 0;
-      gap: 30px;
+      padding: 20px 0 20px 20px;
+      
     }
 
     .page-container1 img {
     /*Styling certification images */
+        display: flex;
+        gap: 30px;
         width: 300px;
         align-items: center;
     }
