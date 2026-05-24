@@ -54,6 +54,8 @@
         width: 300px;
         display: inline-grid;
         grid-template-columns: auto auto auto auto;
+        align-items: center;
+        justify-content: center;
     }
 
     .page-container2 {
