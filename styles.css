@@ -42,6 +42,7 @@
       margin: 10px auto;
       padding-left: 20px;
       width: 950px; height: auto;
+      gap: 20px;
     }
 
     .page-container1 img {
