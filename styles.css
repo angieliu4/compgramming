@@ -15,7 +15,7 @@
     img {
     /*Styles all images */
         border-radius: 20px;
-        border: 1.5px solid #17171;
+        border: 1.5px solid ##171717;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
 
@@ -39,12 +39,12 @@
       /*Container for certifications */
       background-color: #ffffff;
       color: #1a353a;
+      display: grid;
       border-radius: 20px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
       position: relative;
       margin: 10px auto;
-      padding-left: 20px;
       width: 950px; height: auto;
       padding: 20px 0 20px 20px;
       
@@ -52,10 +52,7 @@
 
     .page-container1 img {
     /*Styling certification images */
-        display: flex;
-        gap: 30px;
         width: 300px;
-        align-items: center;
     }
 
     .page-container2 {
