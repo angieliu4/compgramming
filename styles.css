@@ -39,8 +39,6 @@
       /*Container for certifications */
       background-color: #ffffff;
       color: #1a353a;
-      display: grid;
-      grid-template-columns: auto auto auto auto;
       border-radius: 20px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
@@ -54,6 +52,8 @@
     .page-container1 img {
     /*Styling certification images */
         width: 300px;
+        display: grid;
+        grid-template-columns: auto auto auto auto;
     }
 
     .page-container2 {
