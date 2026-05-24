@@ -52,7 +52,7 @@
     .page-container1 img {
     /*Styling certification images */
         width: 300px;
-        display: grid;
+        display: inline-grid;
         grid-template-columns: auto auto auto auto;
     }
 
