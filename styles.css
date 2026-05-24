@@ -57,7 +57,7 @@
         width: 300px;
         display: inline-grid;
         grid-template-columns: auto auto auto auto;
-        margin: 70px;
+        margin-left: 75px;
     }
 
     .page-container2 {
