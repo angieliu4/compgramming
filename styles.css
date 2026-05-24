@@ -38,6 +38,7 @@
     .page-container1 {
       /*Container for certifications */
       background-color: #ffffff;
+      color: #1a353a;
       border-radius: 20px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
