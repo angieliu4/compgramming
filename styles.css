@@ -12,6 +12,12 @@
       min-height: 100vh;
     }
 
+    img {
+        border-radius: 20px;
+        border: 1.5px solid #00596a;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
     .title-container {
         background-color: #ffffff;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
