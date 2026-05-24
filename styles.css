@@ -27,6 +27,16 @@
         color: #171717;
     }
 
+    .page-container1 {
+      background-color: #ffffff;
+      border-radius: 20px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      overflow: hidden;
+      position: relative;
+      margin: 10px auto;
+      width: 950px; height: auto;
+    }
+
     .page-container2 {
       /* Main container for all sections */
       background-color: #ffffff;
