@@ -63,18 +63,19 @@
       /* Main container for all sections */
       background-color: #ffffff;
       border-radius: 20px;
+      padding: 20px;
       border: 1.5px solid #cecece;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
       position: relative;
       margin: 10px auto;
       width: 950px; height: auto;
-      padding: 20px;
     }
 
     .page-container2 h2 {
-        font-size: 30px;
+        font-size: 30px;  
     }
+
     header {
       /* Styles the header section */
       height: 30%;
