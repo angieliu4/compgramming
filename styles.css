@@ -38,6 +38,10 @@
       width: 950px; height: auto;
     }
 
+    .page-container1 img {
+        width: 200px;
+    }
+
     .page-container2 {
       /* Main container for all sections */
       background-color: #ffffff;
