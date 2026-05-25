@@ -15,7 +15,7 @@
     img {
     /*Styles all images */
         border-radius: 20px;
-        border: 1.5px solid #171717;
+        border: 2px solid #171717;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
 
@@ -53,10 +53,10 @@
 
     .page-container1 img {
     /*Styling certification images */
-        width: 300px;
+        width: 350px;
         display: inline-grid;
         grid-template-columns: auto auto auto auto;
-        margin-left: 75px;
+        margin: 0 0 40px 75px;
     }
 
     .page-container2 {
