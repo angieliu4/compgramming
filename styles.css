@@ -78,23 +78,6 @@
         font-size: 30px;  
     }
 
-    header {
-      /* Styles the header section */
-      height: 30%;
-      width: 100%;
-      min-height: 80px;
-      background-color: rgb(245, 213, 237);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    header h1 {
-      /* Styles the header title */
-      font-size: 24px;
-      color: #fff;
-      margin: 0;
-      text-align: center;
-    }
     nav {
       /* Styles the navigation bar */
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
