@@ -34,6 +34,10 @@
         color: #152a4e;
     }
 
+    .title-container h2, .title-container h3 {
+        color: #b99129;
+    }
+
     .page-container1 {
       /*Container for certifications */
       background-color: #fff;
@@ -46,7 +50,10 @@
       margin: 10px auto;
       width: 950px; height: auto;
       padding: 20px 0 20px 20px;
-      
+    }
+
+    .page-container1 h3 {
+        color: #b99129;
     }
 
     .page-container1 img {
@@ -73,16 +80,16 @@
 
     .page-container2 h1 {
         font-size: 45px;
-        color: #2d6384;
+        color: #152a4e;
     }
 
     .page-container2 h2 {
         font-size: 30px;
-        color: #2d6384;
+        color: #152a4e;
     }
 
     .page-container2 h3, .page-container2 h4, .page-container2 h6 {
-        color: #b99129;
+        color: #2d749e;
     }
 
     nav {
