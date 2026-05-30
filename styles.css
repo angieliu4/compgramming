@@ -31,13 +31,13 @@
         justify-content: center;
         text-align: center;
         padding-top: 40px;
-        color: #171717;
+        color: #091730;
     }
 
     .page-container1 {
       /*Container for certifications */
       background-color: #e3e4e6;
-      color: #1a353a;
+      color: #091730;
       border-radius: 20px;
       border: 1.5px solid #cecece;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -60,6 +60,7 @@
     .page-container2 {
       /* Main container for all sections */
       background-color: #e3e4e6;
+      color: #091730;
       border-radius: 20px;
       padding: 20px;
       border: 1.5px solid #cecece;
@@ -91,7 +92,7 @@
     }
     nav a {
       /* Styles navigation links */
-      color: #171717;
+      color: #bc9b44;
       text-decoration: none;
       text-align: left;
       font-size: 21px;
@@ -113,7 +114,7 @@
       /* Styles content text and lists */
       margin: 0 0 10px 0;
       font-size: 16px;
-      color: #222;
+      color: #091730;
     }
     main img {
       /* Styles content images */
@@ -140,5 +141,5 @@
       /* Styles footer text */
       margin: 0;
       font-size: 20px;
-      color: #171717;
+      color: #091730;
     }
