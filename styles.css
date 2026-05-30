@@ -73,10 +73,15 @@
 
     .page-container2 h1 {
         font-size: 45px;
+        color: #c4a248;
     }
 
     .page-container2 h2 {
         font-size: 30px;  
+    }
+
+    .page-container2 h3 {
+        color: #f788a3;
     }
 
     nav {
