@@ -13,7 +13,7 @@
     img {
     /*Styles all images */
         border-radius: 20px;
-        border: 2px solid #c5d1d9;
+        border: 2px solid #e1eaf5;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
 
@@ -21,7 +21,7 @@
     /*Container for the title of page */
         background-color: #fff;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        border: 1.5px solid #c5d1d9;
+        border: 1.5px solid #e1eaf5;
         width: 950px; height: 175px;
         font-size: 20px;
         overflow: hidden;
@@ -43,7 +43,7 @@
       background-color: #fff;
       color: #152a4e;
       border-radius: 20px;
-      border: 1.5px solid #c5d1d9;
+      border: 1.5px solid #e1eaf5;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
       position: relative;
@@ -70,7 +70,7 @@
       color: #152a4e;
       border-radius: 20px;
       padding: 20px;
-      border: 1.5px solid #c5d1d9;
+      border: 1.5px solid #e1eaf5;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
       position: relative;
@@ -95,7 +95,7 @@
     nav {
       /* Styles the navigation bar */
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      border: 1.5px solid #c5d1d9;
+      border: 1.5px solid #e1eaf5;
       height: 50px;
       width: 100%;
       background-color: #fff;
@@ -145,7 +145,7 @@
       height: 20%;
       width: 100%;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      border: 1.5px solid #c5d1d9;
+      border: 1.5px solid #e1eaf5;
       min-height: 80px;
       background-color: #fff;
       display: flex;
