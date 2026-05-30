@@ -2,7 +2,7 @@
     body {
       /* Sets the page background and layout */
       font-family: 'Inter', Garamond, serif;
-      background-color: #f5f5f5;
+      background-color: ##d3d4d6;
       margin: 0;
       padding: 10px 0;
       display: flex;
@@ -19,7 +19,7 @@
 
     .title-container {
     /*Container for the title of page */
-        background-color: #ffffff;
+        background-color: #e3e4e6;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         border: 1.5px solid #cecece;
         width: 950px; height: 175px;
@@ -36,7 +36,7 @@
 
     .page-container1 {
       /*Container for certifications */
-      background-color: #ffffff;
+      background-color: #e3e4e6;
       color: #1a353a;
       border-radius: 20px;
       border: 1.5px solid #cecece;
@@ -59,7 +59,7 @@
 
     .page-container2 {
       /* Main container for all sections */
-      background-color: #ffffff;
+      background-color: #e3e4e6;
       border-radius: 20px;
       padding: 20px;
       border: 1.5px solid #cecece;
@@ -83,7 +83,7 @@
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       height: 50px;
       width: 100%;
-      background-color: rgb(255, 255, 255);
+      background-color: #e3e4e6;
       display: flex;
       align-items: center;
       padding-left: 50px;
@@ -105,7 +105,7 @@
       /* Styles the main content area */
       height: auto;
       min-height: 400px;
-      background-color: rgb(255, 255, 255);
+      background-color: #e3e4e6;
       padding: 10px;
       box-sizing: border-box;
     }
@@ -131,7 +131,7 @@
       width: 100%;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       min-height: 80px;
-      background-color: #ffffff;
+      background-color: #e3e4e6;
       display: flex;
       align-items: center;
       justify-content: center;
