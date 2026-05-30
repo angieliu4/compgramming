@@ -2,7 +2,7 @@
     body {
       /* Sets the page background and layout */
       font-family: 'Inter', Garamond, serif;
-      background-color: #e2e3e6;
+      background-color: #e7e8eb;
       margin: 0;
       padding: 10px 0;
       display: flex;
@@ -19,7 +19,7 @@
 
     .title-container {
     /*Container for the title of page */
-        background-color: #edeef0;
+        background-color: #f7f8fa;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         border: 1.5px solid #ad9042;
         width: 950px; height: 175px;
@@ -31,13 +31,13 @@
         justify-content: center;
         text-align: center;
         padding-top: 40px;
-        color: #081c3f;
+        color: #152a4e;
     }
 
     .page-container1 {
       /*Container for certifications */
-      background-color: #edeef0;
-      color: #081c3f;
+      background-color: #f7f8fa;
+      color: #152a4e;
       border-radius: 20px;
       border: 1.5px solid #ad9042;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -59,8 +59,8 @@
 
     .page-container2 {
       /* Main container for all sections */
-      background-color: #ad9042;
-      color: #081c3f;
+      background-color: #f7f8fa;
+      color: #152a4e;
       border-radius: 20px;
       padding: 20px;
       border: 1.5px solid #ad9042;
@@ -85,7 +85,7 @@
       border: 1.5px solid #ad9042;
       height: 50px;
       width: 100%;
-      background-color: #edeef0;
+      background-color: #f7f8fa;
       display: flex;
       align-items: center;
       padding-left: 50px;
@@ -93,7 +93,7 @@
     }
     nav a {
       /* Styles navigation links */
-      color: #081c3f;
+      color: #152a4e;
       text-decoration: none;
       text-align: left;
       font-size: 21px;
@@ -115,7 +115,7 @@
       /* Styles content text and lists */
       margin: 0 0 10px 0;
       font-size: 16px;
-      color: #091730;
+      color: #152a4e;
     }
     main img {
       /* Styles content images */
@@ -134,7 +134,7 @@
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       border: 1.5px solid #ad9042;
       min-height: 80px;
-      background-color: #edeef0;
+      background-color: #f7f8fa;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -143,5 +143,5 @@
       /* Styles footer text */
       margin: 0;
       font-size: 20px;
-      color: #091730;
+      color: #152a4e;
     }
