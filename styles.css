@@ -2,7 +2,7 @@
     body {
       /* Sets the page background and layout */
       font-family: 'Inter', Garamond, serif;
-      background-color: #e7e8eb;
+      background-color: #ecedf0;
       margin: 0;
       padding: 10px 0;
       display: flex;
@@ -19,9 +19,9 @@
 
     .title-container {
     /*Container for the title of page */
-        background-color: #f7f8fa;
+        background-color: #fff;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        border: 1.5px solid #ad9042;
+        border: 1.5px solid #152a4e;
         width: 950px; height: 175px;
         font-size: 20px;
         overflow: hidden;
@@ -36,10 +36,10 @@
 
     .page-container1 {
       /*Container for certifications */
-      background-color: #f7f8fa;
+      background-color: #fff;
       color: #152a4e;
       border-radius: 20px;
-      border: 1.5px solid #ad9042;
+      border: 1.5px solid #152a4e;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
       position: relative;
@@ -59,11 +59,11 @@
 
     .page-container2 {
       /* Main container for all sections */
-      background-color: #f7f8fa;
+      background-color: #fff;
       color: #152a4e;
       border-radius: 20px;
       padding: 20px;
-      border: 1.5px solid #ad9042;
+      border: 1.5px solid #152a4e;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       overflow: hidden;
       position: relative;
@@ -82,10 +82,10 @@
     nav {
       /* Styles the navigation bar */
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      border: 1.5px solid #ad9042;
+      border: 1.5px solid #152a4e;
       height: 50px;
       width: 100%;
-      background-color: #f7f8fa;
+      background-color: #fff;
       display: flex;
       align-items: center;
       padding-left: 50px;
@@ -107,7 +107,7 @@
       /* Styles the main content area */
       height: auto;
       min-height: 400px;
-      background-color: #edeef0;
+      background-color: #fff;
       padding: 10px;
       box-sizing: border-box;
     }
@@ -132,9 +132,9 @@
       height: 20%;
       width: 100%;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      border: 1.5px solid #ad9042;
+      border: 1.5px solid #152a4e;
       min-height: 80px;
-      background-color: #f7f8fa;
+      background-color: #fff;
       display: flex;
       align-items: center;
       justify-content: center;
