@@ -13,7 +13,7 @@
     img {
     /*Styles all images */
         border-radius: 20px;
-        border: 2px solid #152a4e;
+        border: 2px solid #c5d1d9;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
 
@@ -80,7 +80,7 @@
         font-size: 30px;  
     }
 
-    .page-container2 h3 {
+    .page-container2 h3, .page-container h4, .page-container h6 {
         color: #b99129;
     }
 
