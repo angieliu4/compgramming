@@ -1,0 +1,95 @@
+class Enemy {
+  float x, y, w, h, speed, damage;
+  String type;
+  int health;
+  PImage image;
+
+  Enemy(float x, float y, String type) {
+    this.x = x;
+    this.y = y;
+    this.type = type;
+    //speed is set in the intersect method down below
+
+    if (type == "red") {
+      w = 50;
+      h = 40;
+      damage = 1;
+      health = 75;
+    } else if (type == "blue") {
+      w = 35;
+      h = 35;
+      damage = 0.3;
+      health = 25;
+    } else if (type == "green") {
+      w = 25;
+      h = 65;
+      damage = 2;
+      health = 150;
+    } else if (type == "black") {
+      w = 25;
+      h = 45;
+      damage = 3;
+      health = 300;
+    } else if (type == "pink") {
+      w = 25;
+      h = 35;
+      damage = 4;
+      health = 450;
+    }
+  }
+
+  void display() {
+    //placeholder
+    if (type == "red") {
+      image = loadImage("tv.png");
+    } else if (type == "blue") {
+      image = loadImage("plate.png");
+    } else if (type == "green") {
+      image = loadImage("light.png");
+    } else if (type == "black") {
+      image = loadImage("soda.png");
+    } else if (type == "pink") {
+      image = loadImage("avocado.png");
+    }
+
+    image(image, x, y);
+    
+    //calling the follow and intersect methods so we don't need to do it in the main class
+    update();
+    intersect(player);
+  }
+
+  void update() {
+    //calculates the distance to the player and angle then move towards it
+    float dx = player.x - x;
+    float dy = player.y - y;
+    float angle = atan2(dy, dx);
+
+    this.x += cos(angle) * speed;
+    this.y += sin(angle) * speed;
+  }
+
+  boolean intersect(Player p) {
+    float d = dist(x, y, p.x, p.y);
+    //checks if the edges of the hitboxes for enemy and player are colliding
+    //w and h are the hitbox for the enemy, p.w and p.h are the hitbox for the player
+    if (d < (w/2 + p.w/2) && d < (h/2 + p.h/2)) {
+      speed = 0;
+      p.health -= damage;
+      return true;
+    } else {
+      if (type == "red") {
+        speed = 1.5;
+      } else if (type == "green") {
+        speed = 2.5;
+      } else if (type == "blue") {
+        speed = 1;
+      } else if (type == "black") {
+        speed = 3;
+      } else if (type == "pink") {
+        speed = 4;
+      }
+      return false;
+    }
+  }
+}
